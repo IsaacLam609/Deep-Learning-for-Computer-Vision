@@ -10,4 +10,4 @@ Accuracy*: 0.92
 ## Object Detection: Parking
 Description: an object detector for parking scenarios consisting of three classes (electric vehicle sign, electric vehicle charger, accessible sign).
 
-Accuracy*: 0.83
+Accuracy*: 0.93
