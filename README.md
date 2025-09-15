@@ -1,5 +1,5 @@
 # Deep Learning for Computer Vision
-
+MATLAB live scripts for object classification and detection using Computer Vision and Deep Learning techniques.
 ### Object Classification: American Sign Language (ASL)
 Description: an object classifier for American Sign Language consisting of 24 alphabets.
 
